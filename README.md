@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gretariva
+##👋 HI, I’m @gretariva
 - 👀 I’m interested in Data Science, Machine Learning, AI, and Data Analysis. I love working with Python, JavaScript, and R Studio to turn data into actionable insights. 📊
 - 🌱 I’m currently learning more about advanced analytics, AI-driven decision making, and exploring new machine learning models. 🚀
 - 💞️ I’m looking to collaborate on open-source projects, data-driven research, and anything related to AI and machine learning that can create impactful solutions. 🤖
