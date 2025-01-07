@@ -6,6 +6,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m an avid reader 📖, love discovering new cities 🌆, and can’t resist a swim whenever I can! 🏊‍♀️
 
+## Collaborators
+- 👭 **Illy** - [GitHub Profile](https://github.com/Illy0210)
 
 <!---
 gretariva/gretariva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
